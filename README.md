@@ -1,2 +1,1 @@
-# FeDeRiX-Bot
-Discord Bot-Music
+Code for Discord bot music By Lanchakorn
