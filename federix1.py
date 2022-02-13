@@ -56,4 +56,4 @@ async def queueList(ctx):
 async def skip(ctx):
     await songsInstance.skip(ctx)
     
-bot.run('OTQxNzIwMzMxNDE1MDg1MTQ4.YgaDZw.J0ovJr4DcH7mhRZwvMxx2fYUn6Y')
+bot.run('yourbottoken')
